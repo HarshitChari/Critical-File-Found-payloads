@@ -112,6 +112,7 @@
 .ftp-access
 .ftppass
 .ftpquota
+.ftpquota
 .gbent
 .gem
 .gfclient/pass
